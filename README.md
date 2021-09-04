@@ -1,7 +1,4 @@
-# Simple pong game test
-# By Brandon/Cyberia
-# Part 1
-
+# Simple pong game made by Brandon/Cyberia
 import turtle
 
 wn = turtle.Screen()
